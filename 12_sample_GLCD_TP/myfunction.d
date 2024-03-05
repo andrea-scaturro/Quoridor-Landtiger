@@ -1,0 +1,1 @@
+.\myfunction.o: myfunction.c

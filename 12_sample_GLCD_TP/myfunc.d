@@ -1,0 +1,17 @@
+.\myfunc.o: MyFunction\myfunc.c
+.\myfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\myfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\myfunc.o: C:\Users\hp\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h
+.\myfunc.o: C:\Users\hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\myfunc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\myfunc.o: C:\Users\hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\myfunc.o: C:\Users\hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\myfunc.o: C:\Users\hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\myfunc.o: C:\Users\hp\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\myfunc.o: C:\Users\hp\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\myfunc.o: MyFunction\../GLCD/GLCD.h
+.\myfunc.o: MyFunction\../TouchPanel/TouchPanel.h
+.\myfunc.o: MyFunction\../RIT/RIT.h
+.\myfunc.o: MyFunction\../timer/timer.h
+.\myfunc.o: MyFunction\myfunc.h
+.\myfunc.o: MyFunction\../CAN/CAN.h
